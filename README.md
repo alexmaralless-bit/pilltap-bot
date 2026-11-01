@@ -147,6 +147,10 @@ pilltap-bot/
 
 Логи выводятся в консоль с уровнем, указанным в `.env` (по умолчанию INFO).
 
+## Автор
+
+Telegram-канал [@sitimlab](https://t.me/sitimlab) · сайт [sitimlab.ru](https://sitimlab.ru/?utm_source=github&utm_medium=profile)
+
 ## Лицензия
 
 MIT — см. [LICENSE](LICENSE).
